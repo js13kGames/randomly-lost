@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+Randomly Lost - A game that shows a ball and user needs to score maximum score of 10 by clicking on it before the ball fades away or lost after it redraws itself every time.
